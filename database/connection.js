@@ -1,3 +1,8 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost/api-data')
+const acronym = require('./models/acronym');
+
+
+
+acronym.create
+
